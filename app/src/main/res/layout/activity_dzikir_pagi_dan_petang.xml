@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:background="@color/bg">
 
     <TextView
         android:id="@+id/tv_dzikir_pagi_petang"
@@ -14,7 +15,7 @@
         android:background="@drawable/bg_menu"
         android:gravity="center"
         android:padding="16dp"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:text="@string/txt_dzikir_pagi_petang"
         android:textSize="24sp"
         android:fontFamily="sans-serif-black"

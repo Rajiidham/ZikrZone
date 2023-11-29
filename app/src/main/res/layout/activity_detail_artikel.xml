@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".ui.detail.DetailArtikelActivity">
+    tools:context=".ui.detail.DetailArtikelActivity"
+    android:background="@color/bg">
 
 
     <androidx.cardview.widget.CardView
@@ -61,7 +62,7 @@
             android:fontFamily="sans-serif-black"
             android:paddingHorizontal="16dp"
             android:paddingVertical="8dp"
-            android:textColor="@color/main"
+            android:textColor="@color/cream"
             android:textSize="17sp" />
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

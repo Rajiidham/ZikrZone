@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/main">
+    android:background="@color/bg">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -35,18 +35,11 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
-            android:text="Rakha Nurrahma Rizki"
+            android:text="Ahmad James Anderson"
             android:textColor="@color/white"
             android:fontFamily="sans-serif-condensed-medium"
             android:textSize="22sp"/>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="+62 81384428789"
-            android:textColor="@color/Transparant"
-            android:textSize="12sp"
-            android:layout_gravity="center"/>
 
         <androidx.appcompat.widget.AppCompatButton
             android:layout_width="wrap_content"

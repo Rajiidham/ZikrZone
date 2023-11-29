@@ -3,7 +3,7 @@
 <resources>
 
     <style name="Theme.SplashScreen.MyDzikirYukApp" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/main</item>
+        <item name="windowSplashScreenBackground">@color/bg</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
         <item name="postSplashScreenTheme">@style/NoActionBar</item>
     </style>
@@ -11,7 +11,7 @@
     <style name="NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:statusBarColor">@color/main</item>
+        <item name="android:statusBarColor">@color/bg</item>
 
     </style>
 </resources>

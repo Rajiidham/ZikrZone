@@ -4,7 +4,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="main">#A7D397</color>
+    <color name="bg">#435585</color>
+    <color name="main">#435500</color>
     <color name="secondary">#b8b8ff</color>
     <color name="third">#f8f7ff</color>
     <color name="gray">#CDFAD5</color>
@@ -13,6 +14,9 @@
     <color name="greendark">#79AC78</color>
     <color name="greenmiddle">#96C291</color>
     <color name="Transparant">#CCFFFFFF</color>
+    <color name="cream">#F5E8C7</color>
+    <color name="lightblue">#818FB4</color>
+
 
 
 </resources>

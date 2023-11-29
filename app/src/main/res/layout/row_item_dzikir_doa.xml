@@ -4,7 +4,8 @@
     android:layout_height="wrap_content"
     android:layout_marginBottom="16dp"
     android:orientation="vertical"
-    android:background="@color/greenmiddle">
+    android:background="@color/cream"
+    >
 
     <TextView
         android:id="@+id/tv_desc"
