@@ -4,7 +4,7 @@
 
     <style name="Theme.SplashScreen.MyDzikirYukApp" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/bg</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
         <item name="postSplashScreenTheme">@style/NoActionBar</item>
     </style>
 
